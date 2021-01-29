@@ -49,7 +49,6 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 
 > ABAP -  is a high-level programming language created by the German software company SAP SE. It is extracted from the base computing languages Java, C, C++ and Python. <https://en.wikipedia.org/wiki/ABAP>
 
-> Batch file - A batch file is a script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file. <https://en.wikipedia.org/wiki/Batch_file>
 
 ###### ABAP 
 ```
