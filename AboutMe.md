@@ -12,7 +12,7 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 
 | Location | Number of Hours | Money |
 | -------- | :-------------: | ----- |
-| LONAVALA | 72              | 350$  |
+| [LONAVALA](/images/Lonavala.jpg) | 72              | 350$  |
 | LAVASA   | 48              | 300$  |
 | COORG    | 120             | 400$  |
 | UDAIPUR  | 120             | 400$  |
