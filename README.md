@@ -30,7 +30,7 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 | Location | Number of Hours | Money |
 | -------- | :-------------: | ----- |
 | [LONAVALA](/images/Lonavala.jpg) | 72              | 350$  |
-| [LAVASA](/images/Lavasa.jpg)   | 48              | 300$  |
+| [LAVASA](/images/lavasa.jpg)   | 48              | 300$  |
 | [COORG](/images/coorg.jpg)    | 120             | 400$  |
 | [UDAIPUR](/images/udaipur.jpg)  | 120             | 400$  |
 
