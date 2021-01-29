@@ -12,7 +12,8 @@ Biryani is altogether a bowl of full meal consisting **carbohydrates (rice)**, *
 1. Write code in a text editor.
     1. Save the file with .java extension
     2. Compile the file using javac filename.java
-    3. Run the file using command java filename
+2. .class file will be generated.
+    1. Run the file using command java filename
 * Required softwares  - Download java
     * Download & Install JDK
     * Setup the path in environment variables.
