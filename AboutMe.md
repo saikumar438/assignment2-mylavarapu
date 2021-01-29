@@ -6,6 +6,8 @@ I am from Hyderabad India. I have done my undergraduation in 2017 and I have wor
 
 ---
 
+## Places to visit ##
+
 Below are the places that I recommend to visit. If you are a nature lover I recommend you to visit these places in India.
 
 | Location | Number of Hours | Money |
@@ -14,4 +16,16 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 | LAVASA   | 48              | 300$  |
 | COORG    | 120             | 400$  |
 | UDAIPUR  | 120             | 400$  |
+
+---
+
+## Quotes ## 
+
+> If you’re always trying to be normal you will never know how amazing you can be.                                                  
+
+                         -*MAYA ANGELOU*
+
+> Integrity is doing the right thing, even when no one is watching.
+
+                        -*C.S. LEWIS*
 
