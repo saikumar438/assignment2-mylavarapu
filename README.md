@@ -10,8 +10,8 @@ Biryani is altogether a bowl of full meal consisting **carbohydrates (rice)**, *
 ## How to run a Java program ##
 
 1. Write code in a text editor.
-    1. Save the file with .java extension
-    2. Compile the file using javac filename.java
+    1. Save the file with .java extension [See here](/images/saving.png)
+    2. Compile the file using javac filename.java[See here](/images/compile.png)
 2. .class file will be generated.
     1. Run the file using command java filename
 * Required softwares  - Download java
