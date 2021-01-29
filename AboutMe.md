@@ -21,11 +21,8 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 
 ## Quotes ## 
 
-> If you’re always trying to be normal you will never know how amazing you can be.                                                  
-
-                         -*MAYA ANGELOU*
+> If you’re always trying to be normal you will never know how amazing you can be.             *MAYA ANGELOU*
 
 > Integrity is doing the right thing, even when no one is watching.
-
-                        -*C.S. LEWIS*
+                    *C.S. LEWIS*
 
