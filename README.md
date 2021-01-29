@@ -19,7 +19,7 @@ Biryani is altogether a bowl of full meal consisting **carbohydrates (rice)**, *
     * Setup the path in environment variables.
 * Open command prompt and type java to check if it was installed.
 
-[link to AboutMe](/AboutMe.md)
+
     
 
 
