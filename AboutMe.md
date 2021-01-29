@@ -26,3 +26,42 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 > Integrity is doing the right thing, even when no one is watching.
                     *C.S. LEWIS*
 
+---
+
+## Code Fencing ##
+
+> ABAP -  is a high-level programming language created by the German software company SAP SE. It is extracted from the base computing languages Java, C, C++ and Python. <https://en.wikipedia.org/wiki/ABAP>
+
+> Batch file - A batch file is a script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file. <https://en.wikipedia.org/wiki/Batch_file>
+
+###### ABAP ######
+```
+Data : Begin of itab occurs 10,
+
+column1       type I,
+
+column2(4)  type C,
+
+column3      like  mara-ernam,
+
+End of itab.
+
+<https://www.guru99.com/all-about-sap-internal-tables.html>
+
+```
+
+###### Batch file ######
+
+```
+
+@echo off 
+Rem This is for listing down all the files in the directory Program files 
+dir "C:\Program Files" > C:\lists.txt 
+echo "The program has completed"
+
+<https://www.tutorialspoint.com/batch_script/batch_script_syntax.htm>
+
+```
+
+
+
