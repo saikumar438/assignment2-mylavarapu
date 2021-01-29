@@ -1,4 +1,4 @@
-# Saikumar Mylavarapu #
+# Saikumar Mylavarapu 
 
 I am from Hyderabad India. I have done my undergraduation in 2017 and I have workexperience of 2 years 9 months as Application Developement Analyst in Accenture Solutions Pvt Ltd. 
 
@@ -6,7 +6,7 @@ I am from Hyderabad India. I have done my undergraduation in 2017 and I have wor
 
 ---
 
-## Places to visit ##
+## Places to visit 
 
 Below are the places that I recommend to visit. If you are a nature lover I recommend you to visit these places in India.
 
@@ -19,7 +19,7 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 
 ---
 
-## Quotes ## 
+## Quotes 
 
 > If you’re always trying to be normal you will never know how amazing you can be.             *MAYA ANGELOU*
 
@@ -28,13 +28,13 @@ Below are the places that I recommend to visit. If you are a nature lover I reco
 
 ---
 
-## Code Fencing ##
+## Code Fencing
 
 > ABAP -  is a high-level programming language created by the German software company SAP SE. It is extracted from the base computing languages Java, C, C++ and Python. <https://en.wikipedia.org/wiki/ABAP>
 
 > Batch file - A batch file is a script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file. <https://en.wikipedia.org/wiki/Batch_file>
 
-###### ABAP ######
+###### ABAP 
 ```
 Data : Begin of itab occurs 10,
 
@@ -48,19 +48,6 @@ End of itab.
 
 ```
 > Source - <https://www.guru99.com/all-about-sap-internal-tables.html>
-
-
-###### Batch file ######
-
-```
-
-@echo off 
-Rem This is for listing down all the files in the directory Program files 
-dir "C:\Program Files" > C:\lists.txt 
-echo "The program has completed"
-
-```
-> Source - <https://www.tutorialspoint.com/batch_script/batch_script_syntax.htm>
 
 
 
