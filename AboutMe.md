@@ -46,9 +46,9 @@ column3      like  mara-ernam,
 
 End of itab.
 
-<https://www.guru99.com/all-about-sap-internal-tables.html>
-
 ```
+> Source - <https://www.guru99.com/all-about-sap-internal-tables.html>
+
 
 ###### Batch file ######
 
@@ -59,9 +59,8 @@ Rem This is for listing down all the files in the directory Program files
 dir "C:\Program Files" > C:\lists.txt 
 echo "The program has completed"
 
-<https://www.tutorialspoint.com/batch_script/batch_script_syntax.htm>
-
 ```
+> Source - <https://www.tutorialspoint.com/batch_script/batch_script_syntax.htm>
 
 
 
